@@ -1,0 +1,11 @@
+h3 {
+    color:turquoise;
+    }
+p,h1 {
+    display: flex;
+    text-align: center;
+    }
+title {
+    display: flex;
+    background-color: salmon;
+}    
